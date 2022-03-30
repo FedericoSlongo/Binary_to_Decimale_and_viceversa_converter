@@ -1,0 +1,10 @@
+C:\Users\fslongo\source\repos\Conversione da e verso binario\Conversione da e verso binario\bin\Debug\Conversione da e verso binario.exe.config
+C:\Users\fslongo\source\repos\Conversione da e verso binario\Conversione da e verso binario\bin\Debug\Conversione da e verso binario.exe
+C:\Users\fslongo\source\repos\Conversione da e verso binario\Conversione da e verso binario\bin\Debug\Conversione da e verso binario.pdb
+C:\Users\fslongo\source\repos\Conversione da e verso binario\Conversione da e verso binario\obj\Debug\Conversione da e verso binario.csproj.AssemblyReference.cache
+C:\Users\fslongo\source\repos\Conversione da e verso binario\Conversione da e verso binario\obj\Debug\Conversione_da_e_verso_binario.Form1.resources
+C:\Users\fslongo\source\repos\Conversione da e verso binario\Conversione da e verso binario\obj\Debug\Conversione_da_e_verso_binario.Properties.Resources.resources
+C:\Users\fslongo\source\repos\Conversione da e verso binario\Conversione da e verso binario\obj\Debug\Conversione da e verso binario.csproj.GenerateResource.cache
+C:\Users\fslongo\source\repos\Conversione da e verso binario\Conversione da e verso binario\obj\Debug\Conversione da e verso binario.csproj.CoreCompileInputs.cache
+C:\Users\fslongo\source\repos\Conversione da e verso binario\Conversione da e verso binario\obj\Debug\Conversione da e verso binario.exe
+C:\Users\fslongo\source\repos\Conversione da e verso binario\Conversione da e verso binario\obj\Debug\Conversione da e verso binario.pdb
